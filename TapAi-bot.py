@@ -10,3 +10,5 @@ index.html
 app.js
 
 readme.md
+index.js
+env
